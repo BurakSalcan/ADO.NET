@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\burak\\source\\repos\\EntityModelVeDLL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C7D2BC9-E5AF-4B42-BC8B-BFB708D7AF17}|EntityModelVeDLL\\EntityModelVeDLL.csproj|c:\\users\\burak\\source\\repos\\entitymodelvedll\\entitymodelvedll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C7D2BC9-E5AF-4B42-BC8B-BFB708D7AF17}|EntityModelVeDLL\\EntityModelVeDLL.csproj|solutionrelative:entitymodelvedll\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAD1402-68A2-44D1-9356-174F3FAB72EF}|VeriErisimKatmani\\VeriErisimKatmani.csproj|c:\\users\\burak\\source\\repos\\entitymodelvedll\\verierisimkatmani\\veriyollari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EAD1402-68A2-44D1-9356-174F3FAB72EF}|VeriErisimKatmani\\VeriErisimKatmani.csproj|solutionrelative:verierisimkatmani\\veriyollari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAD1402-68A2-44D1-9356-174F3FAB72EF}|VeriErisimKatmani\\VeriErisimKatmani.csproj|c:\\users\\burak\\source\\repos\\entitymodelvedll\\verierisimkatmani\\verimodeli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EAD1402-68A2-44D1-9356-174F3FAB72EF}|VeriErisimKatmani\\VeriErisimKatmani.csproj|solutionrelative:verierisimkatmani\\verimodeli.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAD1402-68A2-44D1-9356-174F3FAB72EF}|VeriErisimKatmani\\VeriErisimKatmani.csproj|c:\\users\\burak\\source\\repos\\entitymodelvedll\\verierisimkatmani\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EAD1402-68A2-44D1-9356-174F3FAB72EF}|VeriErisimKatmani\\VeriErisimKatmani.csproj|solutionrelative:verierisimkatmani\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VeriYollari.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\repos\\EntityModelVeDLL\\VeriErisimKatmani\\VeriYollari.cs",
+              "RelativeDocumentMoniker": "VeriErisimKatmani\\VeriYollari.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\repos\\EntityModelVeDLL\\VeriErisimKatmani\\VeriYollari.cs",
+              "RelativeToolTip": "VeriErisimKatmani\\VeriYollari.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T12:07:36.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Kategori.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\repos\\EntityModelVeDLL\\VeriErisimKatmani\\Kategori.cs",
+              "RelativeDocumentMoniker": "VeriErisimKatmani\\Kategori.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\repos\\EntityModelVeDLL\\VeriErisimKatmani\\Kategori.cs",
+              "RelativeToolTip": "VeriErisimKatmani\\Kategori.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T11:57:40.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VeriModeli.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\repos\\EntityModelVeDLL\\VeriErisimKatmani\\VeriModeli.cs",
+              "RelativeDocumentMoniker": "VeriErisimKatmani\\VeriModeli.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\repos\\EntityModelVeDLL\\VeriErisimKatmani\\VeriModeli.cs",
+              "RelativeToolTip": "VeriErisimKatmani\\VeriModeli.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T11:55:23.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\repos\\EntityModelVeDLL\\EntityModelVeDLL\\Program.cs",
+              "RelativeDocumentMoniker": "EntityModelVeDLL\\Program.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\repos\\EntityModelVeDLL\\EntityModelVeDLL\\Program.cs",
+              "RelativeToolTip": "EntityModelVeDLL\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T11:45:27.225Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

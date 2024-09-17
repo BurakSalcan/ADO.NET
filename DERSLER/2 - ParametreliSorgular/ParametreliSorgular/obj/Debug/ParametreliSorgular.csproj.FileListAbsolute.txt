@@ -1,0 +1,7 @@
+C:\Users\burak\source\repos\ParametreliSorgular\ParametreliSorgular\bin\Debug\ParametreliSorgular.exe.config
+C:\Users\burak\source\repos\ParametreliSorgular\ParametreliSorgular\bin\Debug\ParametreliSorgular.exe
+C:\Users\burak\source\repos\ParametreliSorgular\ParametreliSorgular\bin\Debug\ParametreliSorgular.pdb
+C:\Users\burak\source\repos\ParametreliSorgular\ParametreliSorgular\obj\Debug\ParametreliSorgular.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\ParametreliSorgular\ParametreliSorgular\obj\Debug\ParametreliSorgular.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\ParametreliSorgular\ParametreliSorgular\obj\Debug\ParametreliSorgular.exe
+C:\Users\burak\source\repos\ParametreliSorgular\ParametreliSorgular\obj\Debug\ParametreliSorgular.pdb

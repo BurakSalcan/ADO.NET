@@ -1,0 +1,10 @@
+C:\Users\burak\source\repos\EntityModelVeDLL\EntityModelVeDLL\bin\Debug\EntityModelVeDLL.exe.config
+C:\Users\burak\source\repos\EntityModelVeDLL\EntityModelVeDLL\bin\Debug\EntityModelVeDLL.exe
+C:\Users\burak\source\repos\EntityModelVeDLL\EntityModelVeDLL\bin\Debug\EntityModelVeDLL.pdb
+C:\Users\burak\source\repos\EntityModelVeDLL\EntityModelVeDLL\obj\Debug\EntityModelVeDLL.csproj.AssemblyReference.cache
+C:\Users\burak\source\repos\EntityModelVeDLL\EntityModelVeDLL\obj\Debug\EntityModelVeDLL.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\EntityModelVeDLL\EntityModelVeDLL\obj\Debug\EntityModelVeDLL.exe
+C:\Users\burak\source\repos\EntityModelVeDLL\EntityModelVeDLL\obj\Debug\EntityModelVeDLL.pdb
+C:\Users\burak\source\repos\EntityModelVeDLL\EntityModelVeDLL\bin\Debug\VeriErisimKatmani.dll
+C:\Users\burak\source\repos\EntityModelVeDLL\EntityModelVeDLL\bin\Debug\VeriErisimKatmani.pdb
+C:\Users\burak\source\repos\EntityModelVeDLL\EntityModelVeDLL\obj\Debug\EntityMo.57B5A413.Up2Date
